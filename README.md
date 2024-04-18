@@ -1,37 +1,18 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README Generator
 
-  # README Generator
+## Description
 
-  ## Description
+Using node, I created a professional README generator to help with all future projects.
 
-  Using node to create a professional README generator
+  
+## Installation
 
-  ## Table of Contents
-  - Installation
-  - Usage
-  - How to Contribute
-  - Tests
-  - Questions
+Download the folder and open in terminal
 
-  ## Installation
+## Usage
 
-  By downloading the folder
+Open the terminal and type "node index.js". Answer the prompts and then a README file will be generated based on your responses.
 
-  ## Usage
+## License
 
-  Open the terminal and type "node index.js" then answer the prompts
-
-  MIT license.
-
-  ## How to Contribute
-
-  Venmo @chasegetsbetter
-
-  ## Tests
-
-  Use the app and email me your thoughts
-
-  ## Questions
-
-  If you have any questions you can reach me at chaseafriedman@gmail.com.
-  My GitHub profile can be found at https://github.com/cfriedman2156
+Please refer to the license in the repo.
